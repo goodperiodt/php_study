@@ -1,0 +1,15 @@
+{
+    "name": "sungju/prj1",
+    "autoload": {
+        "psr-4": {
+            "sungju\\prj1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "goodperiodt",
+            "email": "ilypsj@gmail.com"
+        }
+    ],
+    "require": {}
+}
